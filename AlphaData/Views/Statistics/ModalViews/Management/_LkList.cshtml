@@ -1,0 +1,17 @@
+﻿@using AlphaData.Models.Statistics.Management
+@model List<LkModel>
+
+@foreach (LkModel lkModel in Model)
+{
+<div class="lk">
+    <div class="lk__info">
+        <span class="lk__name">@lkModel.name</span> <span>@lkModel.login</span>
+    </div>
+    <div class="lk__btn">
+        <input type="button" class="btn remove" data-idlk="@lkModel.id" value="Удалить" />
+        <input type="button" class="btn edit" data-idlk="@lkModel.id" value="Задачи" />
+        <input type="button" class="btn share" data-idlk="@lkModel.id" value="Открыть" />
+    </div>
+</div>
+}
+

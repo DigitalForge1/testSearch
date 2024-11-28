@@ -1,0 +1,161 @@
+﻿body {
+    margin: -2px 0;
+    padding: 0;
+}
+
+
+.content {
+    height: 100vh;
+    display: grid;
+    grid-template-areas: "header" "main" "footer";
+    grid-template-rows: 5rem 1fr 1rem;
+}
+
+.header__content {
+    grid-area: header;
+}
+
+
+
+.main__content {
+    grid-area: main;
+    margin: 0 auto;
+    width: 50rem;
+}
+
+.lk__panel {
+    display: grid;
+    grid-template-columns: 2.3fr 1fr;
+    margin-bottom: 1rem; 
+    padding: 0.7rem 1.5rem;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+    box-shadow: 0 0 0.7rem 0.19rem rgba(221, 221, 221, 1);
+}
+
+.lk__list {
+    display: flex;
+    flex-direction: column;
+    padding: 0.8rem;
+    height: 32rem;
+    overflow: auto;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+    box-shadow: 0 0 0.7rem 0.19rem rgba(221, 221, 221, 1);
+}
+
+.lk {
+    width: 100%;
+    padding: 1.2rem 0rem;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    grid-column-gap: 1rem;
+    border-bottom: 3px solid #80808026;
+}
+.lk__info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.lk__name {
+    padding: 0 0.7rem;
+    color: #000;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.lk__btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.myInput {
+    padding: 0.5rem 0.8rem;
+    color: black;
+    background-color: #F8F8F8;
+    border: solid;
+    border-color: #D9DAE1;
+    border-radius: 2rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+    .myInput:focus {
+        outline: 0;
+    }
+
+.btn {
+    padding: 0.6rem 1.5rem;
+    border: none;
+    border-radius: 2rem;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+    .btn.modalbtn {
+        width: 100%;
+        font-size: 1.2rem;
+        background-color: #6C5CE7;
+    }
+        .btn.modalbtn:hover {
+            background-color: #6153CF;
+        }
+    .btn.create {
+        background-color: #6C5CE7;
+    }
+        .btn.create:hover {
+            background-color: #6153CF;
+        }
+    .btn.remove {
+        background-color: #D03940;
+    }
+        .btn.remove:hover {
+            background-color: #BE343B;
+        }
+    .btn.edit {
+        background-color: #E2C275;
+    }
+        .btn.edit:hover {
+            background-color: #DBB761;
+        }
+    .btn.share {
+        background-color: #A1DD70;
+    }
+        .btn.share:hover {
+            background-color: #91C665;
+        }
+
+/*Подвал*/
+.footer__content {
+    grid-area: footer;
+}
+
+
+/*
+    =============
+    === AddLk ===
+    =============
+*/
+
+.addLk {
+    display: grid;
+    grid-template-areas: "element-1 element-1" "element-2 element-3" "element-4 element-4";
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1rem;
+    grid-row-gap: 0.5rem;
+}
+.addLk__1 {
+    grid-area: element-1;
+}
+.addLk__2 {
+    grid-area: element-2;
+}
+.addLk__3 {
+    grid-area: element-3;
+}
+.addLk__4 {
+    grid-area: element-4;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 1rem;
+}

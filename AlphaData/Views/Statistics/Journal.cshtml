@@ -1,0 +1,218 @@
+﻿@using AlphaData.Models.Statistics.Account
+@using AlphaData.Models.Statistics.Journal
+@model JournalModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Онлайн журнал</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery.maskedinput@1.4.1/src/jquery.maskedinput.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+
+    <script src="~/plagins/SimplePlayer/jquery.simpleplayer.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/plagins/SimplePlayer/simpleplayer.css" />
+    <link type="text/css" href="~/css/Statistics/Journal.css" rel="stylesheet" />
+    <script src="~/myJS/FindText.js"></script>
+    
+    <script>
+        //моно режим и плеееры 
+
+
+        //const audioContext = new AudioContext();
+        //var audioElement = new Audio("/Statistics/Download?mixPath=20220128%5C1054%5Cmix_13183_16e008__2022_01_28__10_54_42_773.mp3");
+        function GetAudHtml(IdChain, urlPlayer) {
+            return '<div> <audio class="player" data-initAud="false" id = "' + IdChain + '_aud" src = "' + urlPlayer + '"> Браузер устарел </audio></div>';
+        }
+        function CreateAudElement(neighbour, IdChain, urlPlayer) {
+
+            $(neighbour).parent().append(GetAudHtml(IdChain, urlPlayer));
+            $(neighbour).prop('disabled', true);
+            let pl = $("#" + IdChain + "_aud");
+            pl.player();
+           // $(".player[data-initAud='false']").data("initAud", "true");
+        }
+
+        function CreateAud(audioElement, audioContext) {
+           
+            const audioSource = audioContext.createMediaElementSource(audioElement);
+            //audioElement.crossOrigin = "anonymous"; // cross-origin - if file is stored on remote server
+            const volumeNodeL = new GainNode(audioContext);
+            const volumeNodeR = new GainNode(audioContext);
+
+            volumeNodeL.gain.value = 2;
+            volumeNodeR.gain.value = 2;
+
+            const channelsCount = 2; // or read from: 'audioSource.channelCount'
+
+            const splitterNode = new ChannelSplitterNode(audioContext, { numberOfOutputs: channelsCount });
+            const mergerNode = new ChannelMergerNode(audioContext, { numberOfInputs: channelsCount });
+
+            audioSource.connect(splitterNode);
+
+            splitterNode.connect(volumeNodeR, 0); // connect OUTPUT channel 0
+            splitterNode.connect(volumeNodeL, 1); // connect OUTPUT channel 1
+
+            //mono
+            volumeNodeR.connect(mergerNode, 0, 1); // connect INPUT channel 1
+            volumeNodeL.connect(mergerNode, 0, 1); // connect INPUT channel 1
+            volumeNodeR.connect(mergerNode, 0, 0); // connect INPUT channel 0
+            volumeNodeL.connect(mergerNode, 0, 0); // connect INPUT channel 0
+
+            mergerNode.connect(audioContext.destination);
+
+            return audioElement;
+        }
+        let isPlaying;
+        function playPause(audioElement, audioContext) {
+            // check if context is in suspended state (autoplay policy)
+            if (audioContext.state === 'suspended') {
+                audioContext.resume();
+            }
+
+            isPlaying = !isPlaying;
+            if (isPlaying) {
+                audioElement.play();
+            } else {
+                audioElement.pause();
+            }
+        }
+
+        function setBalance(val) {
+            volumeNodeL.gain.value = 1 - val;
+            volumeNodeR.gain.value = 1 + val;
+        }
+     
+        
+    </script>
+
+</head>
+<body>
+    
+    <dib class="content">
+        <div class="header__content">
+            <div class="excel__panel">
+                <label for="fileExcel">
+                    <img style="width: 2.2rem;" src="~/img/excel.png" />
+                </label>
+                <input type="button" style="visibility:hidden; display: none" id="fileExcel" name="pathExcel" />
+            </div>
+ 
+            <div class="search__panel">
+                <select class="search_1 myInput" id="idTask">
+                    <option value="" selected disabled>Выберите Проект</option>
+                    @foreach (MyTaskModel myTaskModel in Model.myTaskModels)
+                    {
+                        <option value="@myTaskModel.idTask">@myTaskModel.nameTask</option>
+                    }
+                </select>
+                <select class="search_4 myInput" id="typeTable">
+                    <option value="" selected disabled>Выберите тип</option>
+                    @foreach (string typeTable in Model.typeTables)
+                    {
+                        switch (typeTable)
+                        {
+                            case "call":
+                                <option value="call" selected>Звонок</option>
+                                break;
+                            case "abonent":
+                                <option value="abonent" selected>Отчет</option>
+                                break;
+                            case "full":
+                                <option value="full" selected>Звонок + отчет</option>
+                                break;
+                            @*case "reportData":
+                                <option value="reportData" selected>Звонок + отчет + недозвоны</option>
+                                break; *@
+                            default:
+                                break;
+                        }
+                    }
+                </select>
+
+                <input type="text" class="search_2 myInput" id="period" autocomplete="off" placeholder="Выберите период" />
+                <input type="button" class="search_3 myBtn view" id="viewBtn" value="Показать" />
+                <label for="mono" class="search_5">Записи в моно <input type="checkbox" class="" id="mono" value="0" /></label>
+
+                <script>
+                    jQuery(function ($) {
+                        var viewBtn = $("#period");
+                        viewBtn.mask('99.99.9999-99.99.9999');
+                        viewBtn.daterangepicker({
+                            startOfWeek: 'sunday',
+                            autoUpdateInput: false,
+                            locale: {
+                                format: 'DD.MM.YYYY',
+                                applyLabel: 'Выбрать',
+                                cancelLabel: 'Очистить',
+                                invalidDateLabel: 'Выберите дату',
+                                daysOfWeek: ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'],
+                                monthNames: ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'],
+                                firstDay: 1
+                            }
+                        });
+                        viewBtn.on('apply.daterangepicker', function (ev, picker) {
+                            $(this).val(picker.startDate.format('DD.MM.YYYY') + '-' + picker.endDate.format('DD.MM.YYYY'));
+                        });
+                        viewBtn.on('cancel.daterangepicker', function (ev, picker) {
+                            $(this).val('');
+                        });
+
+                        $('#viewBtn').on('click', function (e) {
+                            var journalTable = $('#journalTable');
+                            journalTable.text('Загрузка...');
+                            journalTable.load('@Url.Action("_JournalTable", "Statistics")?idLk=' + '@Model.idLk' + '&idTask=' + $('#idTask').val() + '&typeTable=' + encodeURIComponent($('#typeTable').val()) + '&period=' + $('#period').val(),
+                                function (response, status, xhr) {
+                                    if (status == 'error') {
+                                        journalTable.text('Не удалось соединиться с сервером.');
+                                    }
+                                    else {
+                                        let a = $("#mono").is(':checked');
+                                        if (a)
+                                        {
+                                            const audioContext = new AudioContext();
+                                            let arrAud = document.querySelectorAll('audio');
+                                            for (i in arrAud) {
+                                                CreateAud(arrAud[i], audioContext);
+                                            }
+                                        }
+                                       // CreateAud(document.querySelector('audio'), audioContext);
+                                        //$(".player").each(function () {
+                                        //    CreateAud($(this), audioContext);
+                                        //});
+                                    }
+                                });
+                        });
+
+                        $('#fileExcel').on('click', function (e) {
+                            var url = '@Url.Action("ExcelDownload", "Statistics")?idLk=' + '@Model.idLk' + '&idTask=' + $('#idTask').val() + '&typeTable=' + encodeURIComponent($('#typeTable').val()) + '&period=' + $('#period').val()
+                            window.open(url, '_blank');
+                        });
+                    });
+                </script>
+
+
+                <input class="myInput search_6"  id="search_page" type="text" />
+                <button class="search_7 myBtn view" onclick="FindOnPage($('#search_page').val())">Поиск по странице</button>
+              
+            </div>
+            @*<input type="button" value="Найстроки" />*@
+        </div>
+
+        <div id ="main__content" class="main__content">
+            <div id="journalTable"></div>
+        </div>
+
+        <div class="footer__content">
+            Бета версия. Быть внимательным
+        </div>
+    </dib>
+
+    @await Html.PartialAsync("ModalViews/Modal")
+</body>
+</html>

@@ -1,0 +1,59 @@
+.simple-player-container {
+    display: grid;
+    grid-template-columns: 40px 1fr 40px 40px;
+    background-color: #ddd;
+    height: 50px;
+}
+.simple-player-container > div > ul {
+    margin: 0;
+    padding-left: 0;
+}
+
+.progressbar-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.element_player {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+    .element_player.start {
+        margin: 0 auto;
+    }
+    .element_player.download {
+    }
+    .element_player.time {
+        padding-left: 5px;
+    }
+    .element_player.progressbar {
+        
+    }
+
+.simpleplayer-play-control {
+    background-image: url('images/play.png');
+    width: 32px;
+    height: 32px;
+}
+    .simpleplayer-play-control:hover {
+        background-image: url('images/play_focus.png');
+    }
+
+.simpleplayer-stop-control {
+    background-image: url('images/pause.png');
+    width: 32px;
+    height: 32px;
+}
+    .simpleplayer-stop-control:hover {
+        background-image: url('images/pause_focus.png');
+    }
+
+.simpleplayer-download-control {
+    background-image: url('images/download.png');
+    width: 32px;
+    height: 32px;
+}
+    .simpleplayer-download-control:hover {
+        background-image: url('images/download_focus.png');
+    }

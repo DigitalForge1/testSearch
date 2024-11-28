@@ -1,0 +1,80 @@
+﻿@using alphaData.Models
+@model AccountModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Аккаунт</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <script src="~/plagins/SelectizeSrc/js/standalone/selectize.js" type="text/javascript"></script>
+    <link href="~/plagins/SelectizeSrc/css/selectize.bootstrap4.css" rel="stylesheet" type="text/css" />
+
+    <link href="~/css/Account.css" rel="stylesheet" type="text/css" />
+    <link href="~/plagins/ModalView/modal.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <dib class="content">
+        <div class="header_content">
+            <div>
+                <input class="addTaskbtn" type="button" id="addLKbtn" value="Добавить задачу" />
+                @await Html.PartialAsync("_AddTask")
+            </div>
+        </div>
+        <div class="account_content">
+            @foreach (TaskModel myTasl in Model.myTaskList)
+            {
+            <div class="settingsPanel">
+                <div class="nameTask">@myTasl.nameTask</div>
+
+                <div class="settingsPanel element">
+                    <div class="selectPole">
+                        
+                        <select class="select-poles" id="select_@myTasl.idTask" multiple placeholder="Выберите поля для отображения">
+                            <option value="">Select a state...</option>
+                            @foreach (string pole in myTasl.poleList)
+                            {
+                                <option value="@pole" selected>@pole</option>
+                            }
+                            @foreach (string fullPole in myTasl.fullPoleList)
+                            {
+                                <option value="@fullPole">@fullPole</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="element btnPanel">
+                        <div id="results_@myTasl.idTask"></div>
+                        <div>
+                            <input class="btnPole" data-title="@myTasl.idTask" type="button" value="Сохранить" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+
+        <script>
+            jQuery(function ($) {
+                $('.select-poles').selectize();
+                $('.btnPole').on('click', function (e) {
+                    var nameSelect = '#select_' + e.target.dataset.title;
+                    $('#results_' + e.target.dataset.title).load('@Url.Action("SavePole", "Statistics")?pole=' + $(nameSelect).val() + '&idlk=' + '@Model.lKModel.idLK' + '&idTask=' + e.target.dataset.title,
+                        function (response, status, xhr) {
+                            if (status == 'error') {
+                                alert('Произошла ошибка #AD01');
+                            }
+                        });
+                });
+            });
+        </script>
+
+
+        </div>
+        <div class="footer_content">
+            Бета версия. Быть внимательным
+        </div>
+    </dib>
+</body>
+</html>

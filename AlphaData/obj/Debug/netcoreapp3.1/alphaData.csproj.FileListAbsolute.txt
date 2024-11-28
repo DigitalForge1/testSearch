@@ -1,0 +1,854 @@
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.exe
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.deps.json
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.runtimeconfig.json
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.runtimeconfig.dev.json
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.pdb
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.Views.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\alphaData.Views.pdb
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.csprojAssemblyReference.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.AssemblyInfoInputs.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.AssemblyInfo.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.RazorAssemblyInfo.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.RazorAssemblyInfo.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.TagHelpers.input.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.TagHelpers.output.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.RazorCoreGenerate.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.RazorTargetAssemblyInfo.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.RazorTargetAssemblyInfo.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.Views.pdb
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\alphaData.StaticWebAssets.Manifest.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\alphaData.StaticWebAssets.xml
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.pdb
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.genruntimeconfig.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\alphaData.csproj.CopyComplete
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Management.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Properties.Resources.resources
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.GenerateResource.cache
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.CoreCompileInputs.cache
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Journal\_JournalTable.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_AddLK.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_LkList.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Modal.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Account.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\alphaData\alphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Journal.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskAdd.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskList.cshtml.g.cs
+C:\Users\79192\Desktop\Работа\Приложения\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_Settings.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.exe
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.deps.json
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.runtimeconfig.json
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.runtimeconfig.dev.json
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.pdb
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.Views.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.Views.pdb
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.AssemblyReference.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Properties.Resources.resources
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.GenerateResource.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.AssemblyInfoInputs.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.AssemblyInfo.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.CoreCompileInputs.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorAssemblyInfo.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorAssemblyInfo.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\AlphaData.StaticWebAssets.Manifest.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\AlphaData.StaticWebAssets.xml
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlphaData.styles.css
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.TagHelpers.input.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.TagHelpers.output.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorCoreGenerate.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Account.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Journal.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Management.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_Settings.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskAdd.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskList.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Journal\_JournalTable.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_AddLk.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_LkList.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Modal.cshtml.g.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorTargetAssemblyInfo.cache
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorTargetAssemblyInfo.cs
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Views.pdb
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.CopyComplete
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.dll
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.pdb
+C:\Users\romab\Downloads\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.genruntimeconfig.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.exe
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.deps.json
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.runtimeconfig.json
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.runtimeconfig.dev.json
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.pdb
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.Views.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.Views.pdb
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ClosedXML.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.AssemblyReference.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Properties.Resources.resources
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.GenerateResource.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.AssemblyInfoInputs.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.AssemblyInfo.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.CoreCompileInputs.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.MvcApplicationPartsAssemblyInfo.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorAssemblyInfo.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorAssemblyInfo.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\AlphaData.StaticWebAssets.Manifest.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.TagHelpers.input.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.TagHelpers.output.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorCoreGenerate.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Account.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Journal.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Management.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_Settings.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskAdd.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskList.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Journal\_JournalTable.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_AddLk.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_LkList.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Modal.cshtml.g.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorTargetAssemblyInfo.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorTargetAssemblyInfo.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Views.pdb
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.CopyComplete
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.pdb
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.genruntimeconfig.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.MvcApplicationPartsAssemblyInfo.cs
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\aud\mix_1m00s.mp3
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\NReco.Logging.File.dll
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\AlphaData.StaticWebAssets.Pack.cache
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AlphaData.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AlphaData.props
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AlphaData.props
+Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AlphaData.props
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.StaticWebAssets.xml
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\aud\mix_1m00s.mp3
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.exe
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.deps.json
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.runtimeconfig.json
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.runtimeconfig.dev.json
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.pdb
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.Views.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\AlphaData.Views.pdb
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ClosedXML.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\NReco.Logging.File.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.AssemblyReference.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Properties.Resources.resources
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.GenerateResource.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.GeneratedMSBuildEditorConfig.editorconfig
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.AssemblyInfoInputs.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.AssemblyInfo.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.CoreCompileInputs.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.MvcApplicationPartsAssemblyInfo.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.MvcApplicationPartsAssemblyInfo.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorAssemblyInfo.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorAssemblyInfo.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.TagHelpers.input.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.TagHelpers.output.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorCoreGenerate.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Account.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Journal.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Management.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_Settings.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskAdd.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Account\_TaskList.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Journal\_JournalTable.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_AddLk.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Management\_LkList.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\ModalViews\Modal.cshtml.g.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorTargetAssemblyInfo.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.RazorTargetAssemblyInfo.cs
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.Views.pdb
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\AlphaData.StaticWebAssets.Manifest.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\AlphaData.StaticWebAssets.Pack.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AlphaData.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AlphaData.props
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AlphaData.props
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AlphaData.props
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.dll
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.pdb
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.genruntimeconfig.cache
+A:\Проекты работа\AlphaData\AlphaData\alphaData\obj\Debug\netcoreapp3.1\AlphaData.csproj.Up2Date

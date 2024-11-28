@@ -1,0 +1,159 @@
+﻿body {
+    margin: -2px 0;
+    padding: 0;
+}
+
+.content {
+    height: 100vh;
+    display: grid;
+    grid-template-areas: "header" "main" "footer";
+    grid-template-rows: 10rem 1fr 1rem;
+}
+
+.header__content {
+    grid-area: header;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: "excel search .";
+    padding: 0.6rem 3rem;
+    border-bottom: 1px solid silver
+}
+.excel__panel{
+    grid-area: excel;
+}
+.search__panel {
+    grid-area: search;
+    display: grid;
+    grid-template-areas: "search-1 search-1 search-1 search-1" "search-4 search-2 search-3 search-5" "search-6 search-6 search-7 search-7";
+    grid-template-columns: 1fr 1fr 1fr 0.5fr;
+    grid-row-gap: 0.5rem;
+    grid-column-gap: 0.5rem;
+   
+}
+
+.search_5 {
+    grid-area: search-5;
+}
+.search_1 {
+    grid-area: search-1;
+}
+.search_2 {
+    grid-area: search-2;
+}
+.search_3 {
+    grid-area: search-3;
+}
+.search_4 {
+    grid-area: search-4;
+}
+
+.search_6 {
+    grid-area: search-6;
+    height: 0.5rem;
+}
+
+.search_7 {
+    grid-area: search-7;
+    height: 1.3rem;
+    /*background: #ccddff   !important;*/
+}
+
+
+.myInput {
+    padding: 0.5rem;
+    background: #FFFFFF;
+    box-shadow: 0 0 0.5rem 0.1rem rgba(221, 221, 221, 1);
+    border: 0px;
+    border-radius: 1rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+    .myInput::-webkit-input-placeholder {
+        color: black;
+    }
+    .myInput:focus {
+        outline: 0;
+    }
+
+.myBtn {
+   
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+    border: none;
+    border-radius: 2rem;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+    .myBtn.view {
+        background-color: #33AAFF;
+    }
+        .myBtn.view:hover {
+            background-color: #1F9BF4;
+        }
+
+
+.main__content {
+    grid-area: main;
+    width: 100%;
+    overflow: auto;
+    margin: 0 auto;
+}
+
+.table {
+    border: none;
+    margin-bottom: 20px;
+}
+
+    .table thead th {
+        position: sticky;
+        top: 0;
+        z-index: 2;
+        font-weight: bold;
+        text-align: left;
+        border: none;
+        padding: 10px 15px;
+        background: #d8d8d8;
+        font-size: 14px;
+    }
+
+    .table thead tr th:first-child {
+        border-radius: 8px 0 0 8px;
+    }
+
+    .table thead tr th:last-child {
+        border-radius: 0 8px 8px 0;
+    }
+
+    .table tbody td {
+        text-align: left;
+        border: none;
+        padding: 10px 15px;
+        font-size: 14px;
+        vertical-align: top;
+    }
+
+    .table tbody tr:nth-child(even) {
+        background: #f3f3f3;
+    }
+
+    .table tbody tr td:first-child {
+        border-radius: 8px 0 0 8px;
+    }
+
+    .table tbody tr td:last-child {
+        border-radius: 0 8px 8px 0;
+    }
+
+    .table tbody tr:hover td {
+        background: #ccddff;
+    }
+
+
+
+.footer__content {
+    grid-area: footer;
+}

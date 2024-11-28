@@ -1,0 +1,79 @@
+﻿@using AlphaData.Models.Statistics.Account
+@model AccountModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Настроить кабинет</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="~/plagins/SelectizeSrc/js/standalone/selectize.min.js"></script>
+    <link type="text/css" href="~/plagins/SelectizeSrc/css/selectize.bootstrap4.css" rel="stylesheet"/>
+    <link type="text/css" href="~/css/Statistics/Account.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="content">
+        <div class="header__content">
+
+        </div>
+
+        <div class="main__content">
+            <div class="task__panel">
+                <div class="settings__lk">
+                    <input type="button" class="btn modalbtn settings" data-title="Настроить кабинет" data-content="@Url.Action("_Settings", "Statistics", new { idLk =  Model.idLk})" value="Настроить кабинет" />
+                </div>
+                <div class="add__task">
+                    <input type="button" class="btn modalbtn create" data-title="Добавить задачу" data-content="@Url.Action("_TaskAdd", "Statistics", new { idLk =  Model.idLk})" value="Добавить задачу" />
+                </div>
+            </div>
+            <div class="task__list">
+                @foreach (MyTaskModel myTaskModel in Model.myTaskModels)
+                {
+                    <div class="task">
+                        <span class="name__task">@myTaskModel.nameTask</span>
+                        <select class="pole__select" id="select-@myTaskModel.idTask" multiple placeholder="Введите поля">
+                            <option value="">Выберите поле...</option>
+                            @foreach (string poleSelect in myTaskModel.myPoles)
+                            {
+                                <option value="@poleSelect" selected>@poleSelect</option>
+                            }
+                            @foreach (string pole in myTaskModel.fullPoles)
+                            {
+                                <option value="@pole">@pole</option>
+                            }
+                        </select>
+                        <div class="btn__task">
+                            <input type="button" class="btn save" data-idtask="@myTaskModel.idTask" value="Сохранить" />
+                        </div>
+                    </div>
+                }
+            </div>
+            <script>
+                jQuery(function ($) {
+                    $('.pole__select').selectize();
+
+                    $('.btn.save').on('click', function (e) {
+                        var selectVal = $('#select-' + e.target.dataset.idtask).val();
+                        $.ajax({
+                            url: '@Url.Action("UpdatePoles", "Statistics")?idLk=' + '@Model.idLk' + '&idTask=' + e.target.dataset.idtask + '&poles=' + selectVal,
+                            success: function (data) {
+                                alert(data);
+                            },
+                            error: function (error) {
+                                alert('Ошибка!');
+                            }
+                        });
+                    });
+                });
+            </script>
+        </div>
+
+        <div class="footer__content">
+            Бета версия. Быть внимательным
+        </div>
+        @await Html.PartialAsync("ModalViews/Modal")
+    </div>
+</body>
+</html>

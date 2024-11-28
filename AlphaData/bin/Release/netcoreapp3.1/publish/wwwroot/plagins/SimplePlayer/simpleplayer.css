@@ -1,0 +1,40 @@
+.simple-player-container {
+    display: flex;
+    flex-direction: row;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    background-color: #ddd;
+    padding: 0 10px 5px 5px;
+}
+.simple-player-container > div > ul {
+    margin: 0;
+    padding-left: 0;
+}
+.simpleplayer-play-control {
+    background-image: url('images/play.png');
+    display: block;
+    width: 32px;
+    height: 32px;
+    bottom: -5px;
+    position: relative;
+}
+.simpleplayer-play-control:hover {
+    background-image: url('images/play_focus.png');
+}
+.simpleplayer-stop-control {
+    background-image: url('images/pause.png');
+    display: block;
+    width: 32px;
+    height: 32px;
+    bottom: -5px;
+    position: relative;
+}
+.simpleplayer-stop-control:hover {
+    background-image: url('images/pause_focus.png');
+}
+
+.time-current {
+    padding-left: 5px;
+}

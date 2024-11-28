@@ -1,0 +1,86 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.header_content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.addTaskbtn {
+    padding: 0.8rem 1.1rem 0.8rem 1.1rem;
+    background: #33AAFF;
+    border: 0px;
+    border-radius: 1rem;
+    box-shadow: 0 0.012rem 0.024rem #33AAFF;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.32rem;
+    font-family: Calibri;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.account_content {
+    flex-grow: 3;
+    overflow: auto;
+    margin-top: 1rem;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+
+.settingsPanel {
+    display: flex;
+    flex-direction: column;
+}
+    .settingsPanel .element {
+        flex-direction: row;
+    }
+.element .btnPanel {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 4px;
+    margin-left: 1rem;
+}
+.btnPole {
+    width: 10rem;
+    padding: 0.5rem;
+    background: #33AAFF;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 1rem;
+    box-shadow: 0 0.012rem 0.024rem #33AAFF;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1rem;
+    font-family: Calibri;
+    outline: none;
+    text-decoration: none;
+}
+.nameTask {
+    font-size: 1.3rem;
+    font-weight: 500;
+    font-family: Calibri;
+}
+.selectPole {
+    width: 50rem;
+    min-width: 25rem;
+}
+
+
+.footer_content {
+}

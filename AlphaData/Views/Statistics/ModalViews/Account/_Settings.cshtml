@@ -1,0 +1,49 @@
+﻿@using AlphaData.Models.Statistics.Account
+@model SettingsModel
+
+
+@using (Html.BeginForm("UpdateSettingsTypeTable", "Statistics"))
+{
+    <input type="hidden" value="@Model.idLk" name="idLk" />
+    <div class="settingsPanel">
+        <div>
+            <span>Доступ:</span>
+            <select id="typeTable" name="typeTable" multiple placeholder="Добавьте тип отчета">
+                <option value="">Выберите отчет...</option>
+                @foreach (string typeTable in Model.typeTables)
+                {
+                    switch (typeTable)
+                    {
+                        case "call":
+                            <option value="call" selected>Звонок</option>
+                            break;
+                        case "abonent":
+                            <option value="abonent" selected>Отчет</option>
+                            break;
+                        case "full":
+                            <option value="full" selected>Звонок + отчет</option>
+                            break;
+@*                         case "reportData":
+                            <option value="reportData" selected>Звонок + отчет + недозвоны</option>
+                            break; *@
+                        default:
+                            break;
+                    }
+                }
+                <option value="call">Звонок</option>
+                <option value="abonent">Отчет</option>
+                <option value="full">Звонок + отчет</option>
+                <option value="reportData">Звонок + отчет + недозвоны</option>
+            </select>
+        </div>
+        <div class="settingsPanel btnPanel">
+            <input type="submit" class="btn save" value="Сохранить настройки" />
+        </div>
+    </div>
+}
+
+<script>
+    jQuery(function ($) {
+        $('#typeTable').selectize();
+    });
+</script>

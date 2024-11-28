@@ -1,0 +1,35 @@
+2023-01-18T12:00:44.9657190+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2023-01-18T12:00:44.9769975+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2023-01-18T12:00:44.9796005+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2023-01-18T12:00:44.9825321+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData
+2023-01-18T12:04:56.0346854+04:00	FAIL	[Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware]	[UnhandledException]	An unhandled exception has occurred while executing the request.System.IO.FileNotFoundException: Could not find file '\\192.168.0.98\RecordedFiles\20230118\1045\mix_13269_16e017__2023_01_18__10_45_35_613.mp3'.
+File name: '\\192.168.0.98\RecordedFiles\20230118\1045\mix_13269_16e017__2023_01_18__10_45_35_613.mp3'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.File.ReadAllBytes(String path)
+   at alphaData.Controllers.StatisticsController.Download(String mixPath) in Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 393
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-01-18T12:12:29.4550575+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2023-01-18T12:12:29.4574931+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2023-01-18T12:12:29.4609354+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2023-01-18T12:12:29.4627072+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: Z:\Работа\project\Иван\App\AlphaData\AlphaData\alphaData

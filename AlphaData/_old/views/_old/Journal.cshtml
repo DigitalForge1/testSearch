@@ -1,0 +1,125 @@
+﻿@using System.Data
+@using alphaData.Models
+
+@model JournalModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Жрунал</title>
+
+    @*Стиль страницы*@
+    <link rel="stylesheet" type="text/css" href="~/css/Journal.css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery.maskedinput@1.4.1/src/jquery.maskedinput.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+    @*Проигрыватель*@
+    <script src="~/plagins/SimplePlayer/jquery.simpleplayer.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/plagins/SimplePlayer/simpleplayer.css" />
+    
+
+</head>
+<body>
+    <div class="conteiner">
+       
+            <div class="menu_conteiner">
+                <div class="logo_menu">
+                    <label for="fileExcel">
+                        <img style="width: 2.5rem;" src="~/img/excel.png" />
+                    </label>
+                    <input type="button" style="visibility:hidden; display: none" id="fileExcel" name="pathExcel" />
+                    <a id="getFile"></a>
+                    <script type="text/javascript">
+                        jQuery(function ($) {
+                            $('#fileExcel').on('click', function (e) {
+                                var url = '@Url.Action("ExcelDownload", "Statistics")/?idLK=' + '@Model.lkModel.idLK' + '&idTask=' + $('#idTaskSelect').val() + '&period=' + $('#periodInput').val();
+                                window.open(url, '_blank');
+                            });
+                        });
+                    </script>
+                </div>
+                <div class="management_menu_view">
+                    <div>
+                        <div class="management_menu__istoc">
+                            <select class="management_select" id="idTaskSelect">
+                                <option value="" disabled selected hidden>Выберите источник</option>
+                                @foreach (TaskModel myTask in Model.myTaskList)
+                                {
+                                    <option value="@myTask.idTask">@myTask.nameTask</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="management_menu__period">
+                            <div>
+                                <input class="management_input" id="periodInput" autocomplete="off" placeholder="Выберите период" />
+                                <script>
+                                    jQuery(function ($) {
+                                        let button = document.querySelector('#viewBTN');
+                                        button.disabled = true;
+
+                                        $("#periodInput").mask('99.99.9999-99.99.9999', {
+                                            completed: function () {
+                                                button.disabled = false;
+                                            },
+                                        });
+
+                                        $('#periodInput').daterangepicker({
+                                            startOfWeek: 'sunday',
+                                            autoUpdateInput: false,
+                                            locale: {
+                                                format: 'DD.MM.YYYY',
+                                                applyLabel: 'Выбрать',
+                                                cancelLabel: 'Очистить',
+                                                invalidDateLabel: 'Выберите дату',
+                                                daysOfWeek: ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'],
+                                                monthNames: ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'],
+                                                firstDay: 1
+                                            }
+                                        });
+                                        $('#periodInput').on('apply.daterangepicker', function (ev, picker) {
+                                            $(this).val(picker.startDate.format('DD.MM.YYYY') + '-' + picker.endDate.format('DD.MM.YYYY'));
+                                            button.disabled = false;
+                                        });
+
+                                        $('#periodInput').on('cancel.daterangepicker', function (ev, picker) {
+                                            $(this).val('');
+                                        });
+                                    });
+                                </script>
+                            </div>
+                            <div class="management_btn_panel">
+                                <input class="management_btn" id="viewBTN" type="button" value="Показать" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="settings_menu">
+                    <input class="settings_btn" type="submit" value="Настройки" />
+                </div>
+            </div>
+        
+            <div class="data_conteiner" id="tablePanel">
+                <script type="text/javascript">
+                    jQuery(function ($) {
+                        $('#viewBTN').on('click', function (e) {
+                            $('#tablePanel').text('Идет загрузка...');
+                            $('#tablePanel').load('@Url.Action("_JournalTable", "Statistics")/?idLK=' + '@Model.lkModel.idLK' + '&idTask=' + $('#idTaskSelect').val() + '&period=' + $('#periodInput').val(),
+                                function (response, status, xhr) {
+                                    if (status == 'error') {
+                                        alert('Произошла ошибка #AD01');
+                                    }
+                                });
+                        });
+                    });
+                </script>
+            </div>
+
+        <div class=footer>Бета версия</div>
+    </div>
+</body>
+</html>
+

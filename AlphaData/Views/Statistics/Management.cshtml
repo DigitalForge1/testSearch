@@ -1,0 +1,79 @@
+﻿@using AlphaData.Models.Statistics.Management
+@model ManagementModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Панель управления журналом</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="~/plagins/SelectizeSrc/js/standalone/selectize.min.js"></script>
+    <link type="text/css" href="~/plagins/SelectizeSrc/css/selectize.bootstrap4.css" rel="stylesheet" />
+    <link type="text/css" rel="stylesheet" href="~/css/Statistics/Management.css" />
+</head>
+<body>
+    @await Html.PartialAsync("ModalViews/Modal")
+    <dib class="content">
+        <div class="header__content">
+
+        </div>
+
+        <div class="main__content">
+            <div class="lk__panel">
+                <div class="lk__search">
+                    Поиск в разработке
+                </div>
+                <div class="lk__add">
+                    <input type="button" class="btn modalbtn" data-title="Создать кабинет" data-content="@Url.Action("_AddLk", "Statistics")" value="Создать кабинет" />
+                </div>
+            </div>
+
+            <div class="lk__list"></div>
+            <script>
+                jQuery(function ($) {
+                    function updateLklist() {
+                        $('.lk__list').text('Загрузка...');
+                        $('.lk__list').load('@Url.Action("_LkList", "Statistics")',
+                            function (response, status, xhr) {
+                                if (status == 'success') {
+                                    btnEvent();
+                                }
+                                if (status == 'error') {
+                                    $('.lk__list').text('Ошибка загрузки...');
+                                }
+                            });
+                    }
+                    updateLklist();
+
+                    function btnEvent() {
+                        $('.btn.remove').on('click', function (e) {
+                            $.ajax({
+                                url: '@Url.Action("DeleteLk", "Statistics")?idLk=' + e.target.dataset.idlk,
+                                success: function (data) {
+                                    updateLklist();
+                                },
+                                error: function (error) {
+                                    alert('Ошибка!');
+                                }
+                            });
+                        });
+                        $('.btn.edit').on('click', function (e) {
+                            location.href = '@Url.Action("Account", "Statistics")?idLk=' + e.target.dataset.idlk;
+                        });
+                        $('.btn.share').on('click', function (e) {
+                            location.href = '@Url.Action("OpenJournal", "Statistics")?idLk=' + e.target.dataset.idlk;
+                        });
+                    }
+                });
+            </script>
+
+        </div>
+
+        <div class="footer__content">
+            Бета версия. Быть внимательным
+        </div>
+    </dib>
+</body>
+</html>

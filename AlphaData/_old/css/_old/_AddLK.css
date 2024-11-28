@@ -1,0 +1,76 @@
+﻿body {
+}
+
+
+.selectPanel_AddLK{
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 0.5rem;
+}
+    .selectPanel_AddLK.select_AddLK {
+        border: 0px;
+        padding: 0.5rem;
+        box-shadow: 0 0 0.66rem 0.18rem rgba(221, 221, 221, 1);
+        border-radius: 1rem;
+        background: #FFFFFF;
+        width: 100%;
+        font-family: Calibri;
+        font-weight: 500;
+        font-size: 1rem;
+    }
+        .selectPanel_AddLK.select_AddLK:focus {
+            outline: 0;
+        }
+
+.inputPanel_AddLK{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+    .inputPanel_AddLK.input {
+        margin-right: 0.5rem;
+        border: 0px;
+        padding: 0.5rem;
+        padding-left: 0.6rem;
+        box-shadow: 0 0 0.66rem 0.18rem rgba(221, 221, 221, 1);
+        border-radius: 1rem;
+        background: #FFFFFF;
+        font-family: Calibri;
+        font-weight: 500;
+        font-size: 1rem;
+    }
+        .inputPanel_AddLK.input::-webkit-input-placeholder {
+            color: black;
+        }
+        .inputPanel_AddLK.input:focus {
+            outline: 0;
+        }
+
+
+.btnPanel_AddLK {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+    .btnPanel_AddLK.result {
+        margin: auto 0 0;
+        padding: 0.5rem 1rem 0.5rem 0.3rem;
+        color: Gainsboro;
+    }
+    .btnPanel_AddLK.btn {
+        /*width: 10rem;*/
+        padding: 0.5rem 1rem 0.5rem 1rem;
+        background: #33AAFF;
+        color: #FFFFFF;
+        border: 0px;
+        border-radius: 1rem;
+        box-shadow: 0 0.012rem 0.024rem #33AAFF;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1rem;
+        font-family: Calibri;
+        outline: none;
+        text-decoration: none;
+    }

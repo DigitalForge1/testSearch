@@ -1,0 +1,29 @@
+﻿@using AlphaData.Models.Statistics
+@using AlphaData.Models.Statistics.Management
+@model AddLkModel
+
+@using (@Html.BeginForm("InsertLk", "Statistics"))
+{
+    <div class="addLk">
+        <div class="addLk__1">
+            <select id="select-idProject" name="idProject" required placeholder="Выберите проект">
+                <option value="">Выберите проект...</option>
+                @foreach (ProjectModel projectModel in Model.projectModels)
+                {
+                    <option value="@projectModel.id">@projectModel.name</option>
+                }
+            </select>
+        </div>
+        <input type="text" class="myInput addLk__2" name="login" placeholder="Придумайте логин" autocomplete="off" required />
+        <input type="text" class="myInput addLk__3" name="password" placeholder="Придумайте пароль" autocomplete="off" required />
+        <div class="addLk__4">
+            <input type="submit" class="btn create" value="Создать" />
+        </div>
+    </div>
+}
+
+<script>
+    jQuery(function ($) {
+        $('#select-idProject').selectize();
+    });
+</script>

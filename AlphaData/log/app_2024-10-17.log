@@ -1,0 +1,39 @@
+2024-10-17T14:37:33.0645830+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-10-17T14:37:33.0690027+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-10-17T14:37:33.0701614+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-10-17T14:37:33.0712003+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-10-17T14:38:48.0782135+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-10-17T14:38:48.0797242+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-10-17T14:38:48.0806452+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-10-17T14:38:48.0815212+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-10-17T14:39:50.2850042+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-10-17T14:39:50.2870838+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-10-17T14:39:50.2880023+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-10-17T14:39:50.2891227+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-10-17T14:40:16.9193221+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:40:18.3300300+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:40:19.0043342+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:40:19.7316219+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:40:20.5852276+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:40:21.0551828+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:40:27.7530657+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:51:51.3155378+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-10-17T14:51:51.3171907+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-10-17T14:51:51.3181034+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-10-17T14:51:51.3190703+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-10-17T14:54:29.6083341+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-10-17T14:54:29.6097564+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-10-17T14:54:29.6108168+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-10-17T14:54:29.6117720+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-10-17T14:54:59.0113600+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:55:00.0278278+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:55:00.6894228+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:55:01.2833859+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:55:05.9318333+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:56:45.8070045+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-10-17T14:56:45.8088049+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-10-17T14:56:45.8097640+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-10-17T14:56:45.8106844+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-10-17T14:57:39.9655769+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:57:56.0376844+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 
+2024-10-17T14:58:38.7787658+05:00	WARN	[Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware]	[FailedToConfigureForBrowserLink]	Unable to configure Browser Link script injection on the response. 

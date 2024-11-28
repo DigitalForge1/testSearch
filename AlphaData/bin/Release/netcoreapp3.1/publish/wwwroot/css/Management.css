@@ -1,0 +1,102 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.header_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.addLKbtn {
+    padding: 0.8rem 1.1rem 0.8rem 1.1rem;
+    background: #33AAFF;
+    border: 0px;
+    border-radius: 1rem;
+    box-shadow: 0 0.012rem 0.024rem #33AAFF;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.32rem;
+    font-family: Calibri;
+    outline: none;
+    text-decoration: none;
+}
+
+
+
+.LK_content {
+    margin-top: 1rem;
+    flex-grow: 3;
+    overflow: auto;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+.LkListPanel {
+    display: inherit;
+    margin: 0.2rem auto;
+    padding: 0.5rem;
+    overflow: auto;
+}
+    .LkListPanel.LkPanel {
+        width: 55%;
+        min-width: 40rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0.9rem;
+        margin-bottom: 1.5rem;
+        background: #FFFFFF;
+        border-radius: 1rem;
+        box-shadow: 0 0 0.35rem 0.18rem rgba(221, 221, 221, 1);
+        font-size: 1.3rem;
+        font-weight: 500;
+        font-family: Calibri;
+    }
+.infoPanel{
+    margin: auto 0;
+}
+.btnPanel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn {
+    margin: auto 0.5rem auto 0.5rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 1rem;
+    box-shadow: 0 0.012rem 0.024rem #33AAFF;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1rem;
+    font-family: Calibri;
+    outline: none;
+    text-decoration: none;
+}
+    .btn.edit {
+        background: #CCCC33;
+    }
+    .btn.delete {
+        background: #CC3300;
+    }
+    .btn.share {
+        background: #00CC33;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+
+.footer_content {
+}

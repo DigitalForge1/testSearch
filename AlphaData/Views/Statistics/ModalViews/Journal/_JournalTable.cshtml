@@ -1,0 +1,87 @@
+﻿@using System.Data
+@using alphaData.Works.SQLWork
+@model DataTable
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".player").player();
+    });
+</script>
+
+
+@{
+    StatisticsSQL statisticsSQL = new StatisticsSQL();
+    var renameTable = await statisticsSQL.GetRenameTable("RenamedTable");
+
+
+    //header rename 
+    for (int i = 0; i < Model.Columns.Count; i++)
+    {
+        //переименовование столбцов
+        var rowsName = renameTable.Select($"original = '{Model.Columns[i].ColumnName}'");
+        if (rowsName.Length > 0)
+        {
+            string name = rowsName[0]["renamed"].ToString();
+            if (name != null)
+            {
+                if (name != "")
+                {
+                    Model.Columns[i].Caption = name;
+                }
+
+            }
+        }
+    }
+}
+
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            @foreach (DataColumn column in Model.Columns)
+            {
+
+                @*@switch (column.ColumnName)
+                    {
+                        case "AudioCall":
+                            <th>Разговор</th>
+                            break;
+                        case "AudioRedirection":
+                            <th>Переадресация</th>
+                            break;
+                        default:
+
+                            break;
+                    }*@
+                <th>@column.Caption</th>
+            }
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (DataRow row in Model.Rows)
+        {
+            <tr>
+                @foreach (DataColumn column in Model.Columns)
+                {
+                    @switch (column.ColumnName)
+                    {
+                        case "AudioCall":
+                            <td>@Html.Raw(row[column])</td>
+                            break;
+                        case "AudioRedirection":
+                            <td>@Html.Raw(row[column])</td>
+                            break;
+                        default:
+                            <td>@row[column]</td>
+                            break;
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>

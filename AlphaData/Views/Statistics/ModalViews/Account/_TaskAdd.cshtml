@@ -1,0 +1,26 @@
+﻿@using AlphaData.Models.Statistics.Account
+@model AddTaskModel
+
+
+@using (Html.BeginForm("InsertTask", "Statistics"))
+{
+    <input type="hidden" value="@Model.idLk" name="idLk" />
+    <div class="addTask">
+        <select id="select-idTask" name="idTask" required placeholder="Выберите задачу">
+            <option value="">Выберите задачу...</option>
+            @foreach (SystemTaskModel systemTaskModel in Model.systemTaskModels)
+            {
+                <option value="@systemTaskModel.idTask">@systemTaskModel.nameTask</option>
+            }
+        </select>
+        <div class="addTask btnPanel">
+            <input type="submit" class="btn save" value="Создать задачу" />
+        </div>
+    </div>
+}
+
+<script>
+    jQuery(function ($) {
+        $('#select-idTask').selectize();
+    });
+</script>

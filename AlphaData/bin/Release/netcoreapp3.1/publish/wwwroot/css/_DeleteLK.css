@@ -1,0 +1,28 @@
+﻿.btnPanel_DeleteLK {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+    .btnPanel_DeleteLK.result {
+        margin: auto 0 0;
+        padding: 0.5rem 1rem 0.5rem 0.3rem;
+        color: Gainsboro;
+    }
+
+    .btnPanel_DeleteLK.btn {
+        /*width: 10rem;*/
+        padding: 0.5rem 1rem 0.5rem 1rem;
+        background: #33AAFF;
+        color: #FFFFFF;
+        border: 0px;
+        border-radius: 1rem;
+        box-shadow: 0 0.012rem 0.024rem #33AAFF;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1rem;
+        font-family: Calibri;
+        outline: none;
+        text-decoration: none;
+    }

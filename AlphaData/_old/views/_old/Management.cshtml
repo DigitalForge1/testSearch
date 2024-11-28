@@ -1,0 +1,47 @@
+﻿@using alphaData.Models
+@model ManagementModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Панель управления журнала</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <link href="~/css/Management.css" rel="stylesheet" type="text/css" />
+    <link href="~/plagins/ModalView/modal.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <dib class="content">
+        <div class="header_content">
+            <div>
+                <input class="addLKbtn" type="button" id="addLKbtn" value="Добавить личный кабинет" />
+                @await Html.PartialAsync("_AddLK", Model)
+            </div>
+        </div>
+        <div class="LK_content">
+            <div class="LkListPanel">
+                @foreach (LKModel lKModel in Model.lKModels)
+                {
+                <div class="LkListPanel LkPanel">
+                    <div class="infoPanel">
+                        @lKModel.nameProject
+                    </div>
+                    <div class="btnPanel">
+                        <input class="btn delete" type="button" data-title="@lKModel.idLK" data-content="@lKModel.nameProject" value="Удалить" />
+                        <a class="btn edit" href="@Url.Action("Account","Statistics", new { login = lKModel.login, password = lKModel.password })">Изменить</a>
+                        <a class="btn share" href="@Url.Action("Journal","Statistics", new { login = lKModel.login, password = lKModel.password })">Поделиться</a>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+        <div class="footer_content">
+            Бета версия. Быть внимательным
+            @await Html.PartialAsync("_DeleteLK", Model)
+        </div>
+    </dib>
+</body>
+</html>

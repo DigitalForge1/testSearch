@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\management\\addlkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\management\\addlkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\management\\lkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\management\\lkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\management\\managementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\management\\managementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\works\\sqlwork\\connectionpathsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\works\\sqlwork\\connectionpathsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\works\\sqlwork\\statisticssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\works\\sqlwork\\statisticssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\log\\app_2023-01-18.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\log\\app_2023-01-18.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\alphadata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\alphadata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\journal\\typetablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\journal\\typetablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\journal\\journalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\journal\\journalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\views\\statistics\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\views\\statistics\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\views\\statistics\\modalviews\\modal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\views\\statistics\\modalviews\\modal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\views\\statistics\\journal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\views\\statistics\\journal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\models\\statistics\\account\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\models\\statistics\\account\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\views\\statistics\\modalviews\\account\\_settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\views\\statistics\\modalviews\\account\\_settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\views\\statistics\\modalviews\\management\\_addlk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\views\\statistics\\modalviews\\management\\_addlk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\aud\\mix_1m00s.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\aud\\mix_1m00s.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|a:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\alphadata\\alphadata\\alphadata\\views\\statistics\\modalviews\\management\\_lklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B7E142-5A91-4C69-9E87-301C1D30B43A}|alphaData\\AlphaData.csproj|solutionrelative:alphadata\\views\\statistics\\modalviews\\management\\_lklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app_2023-01-18.log",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\log\\app_2023-01-18.log",
+              "RelativeDocumentMoniker": "AlphaData\\log\\app_2023-01-18.log",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\log\\app_2023-01-18.log",
+              "RelativeToolTip": "AlphaData\\log\\app_2023-01-18.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T12:31:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Program.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Program.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Program.cs",
+              "RelativeToolTip": "AlphaData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:22:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Startup.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Startup.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Startup.cs",
+              "RelativeToolTip": "AlphaData\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:22:05.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatisticsSQL.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Works\\SQLWork\\StatisticsSQL.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Works\\SQLWork\\StatisticsSQL.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Works\\SQLWork\\StatisticsSQL.cs",
+              "RelativeToolTip": "AlphaData\\Works\\SQLWork\\StatisticsSQL.cs",
+              "ViewState": "AgIAACICAAAAAAAAAAAYwCoCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:13:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionPathSQL.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Works\\SQLWork\\ConnectionPathSQL.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Works\\SQLWork\\ConnectionPathSQL.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Works\\SQLWork\\ConnectionPathSQL.cs",
+              "RelativeToolTip": "AlphaData\\Works\\SQLWork\\ConnectionPathSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:23:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\TaskModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\TaskModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\TaskModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:23:31.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\ProjectModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\ProjectModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\ProjectModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\ProjectModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:23:30.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagementModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Management\\ManagementModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\Management\\ManagementModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Management\\ManagementModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\Management\\ManagementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:35:50.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LkModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Management\\LkModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\Management\\LkModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Management\\LkModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\Management\\LkModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:23:35.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddLkModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Management\\AddLkModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\Management\\AddLkModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Management\\AddLkModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\Management\\AddLkModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:23:34.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\appsettings.json",
+              "RelativeDocumentMoniker": "AlphaData\\appsettings.json",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\appsettings.json",
+              "RelativeToolTip": "AlphaData\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T11:39:45.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlphaData",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\alphaData\\AlphaData.csproj",
+              "RelativeDocumentMoniker": "alphaData\\AlphaData.csproj",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\alphaData\\AlphaData.csproj",
+              "RelativeToolTip": "alphaData\\AlphaData.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T13:39:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Modal.cshtml",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Modal.cshtml",
+              "RelativeDocumentMoniker": "AlphaData\\Views\\Statistics\\ModalViews\\Modal.cshtml",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Modal.cshtml",
+              "RelativeToolTip": "AlphaData\\Views\\Statistics\\ModalViews\\Modal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:35:46.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Controllers\\StatisticsController.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "AlphaData\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAYwNUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:13:17.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Management.cshtml",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\Management.cshtml",
+              "RelativeDocumentMoniker": "AlphaData\\Views\\Statistics\\Management.cshtml",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\Management.cshtml",
+              "RelativeToolTip": "AlphaData\\Views\\Statistics\\Management.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:35:42.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TypeTableModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Journal\\TypeTableModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\Journal\\TypeTableModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Journal\\TypeTableModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\Journal\\TypeTableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:39:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JournalModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Journal\\JournalModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\Journal\\JournalModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Journal\\JournalModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\Journal\\JournalModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:39:21.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_AddLk.cshtml",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Management\\_AddLk.cshtml",
+              "RelativeDocumentMoniker": "AlphaData\\Views\\Statistics\\ModalViews\\Management\\_AddLk.cshtml",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Management\\_AddLk.cshtml",
+              "RelativeToolTip": "AlphaData\\Views\\Statistics\\ModalViews\\Management\\_AddLk.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:43:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Settings.cshtml",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Account\\_Settings.cshtml",
+              "RelativeDocumentMoniker": "AlphaData\\Views\\Statistics\\ModalViews\\Account\\_Settings.cshtml",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Account\\_Settings.cshtml",
+              "RelativeToolTip": "AlphaData\\Views\\Statistics\\ModalViews\\Account\\_Settings.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:36:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Journal.cshtml",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\Journal.cshtml",
+              "RelativeDocumentMoniker": "AlphaData\\Views\\Statistics\\Journal.cshtml",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\Journal.cshtml",
+              "RelativeToolTip": "AlphaData\\Views\\Statistics\\Journal.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T14:13:17.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Account\\AccountModel.cs",
+              "RelativeDocumentMoniker": "AlphaData\\Models\\Statistics\\Account\\AccountModel.cs",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Models\\Statistics\\Account\\AccountModel.cs",
+              "RelativeToolTip": "AlphaData\\Models\\Statistics\\Account\\AccountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:37:03.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "mix_1m00s.mp3",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\aud\\mix_1m00s.mp3",
+              "RelativeDocumentMoniker": "AlphaData\\aud\\mix_1m00s.mp3",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\aud\\mix_1m00s.mp3",
+              "RelativeToolTip": "AlphaData\\aud\\mix_1m00s.mp3",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVDhPjZNNSFRRFMf/933Nm2/HhV8j9sEohahgpqFZIn0shCELoqhFC9NVYFGgUBEEQdLCglKMVkUbF0lJEATRRomQhhaOWUrN6GjKfJSGM/Nm3uu\u002B500bXkU/OJxz7z3ncM/9v4d/EeiSLwfOCtfY0oymaSwy8\u002Bi4p3ShG9ryBWgPjzi3sW0THPMm1LKmA5y3ClpJJbTt\u002Bw6xbRN/baA1dPqX20cx1/YUqboOP9s28ccGN28POFx5\u002Bfs1IoBwIuwOV1PfnYE8dpwDz3wOJ4ojLeX52U4Hn4a4Fgb/6bW88mZ4bPT94jRL2UBgPgd3LOgvefsOrgAguel6GZhfsuhjPFvP2MQ0wr2TFbxLSx7maWtdI5WaZAOcaurg4KkdopH0G6YGid3dldnao76MeyuyogMZ3oG0uwxKTduWeN25apa2AWHeYObBMc/zRE23t6r1anG\u002BDVI2SR\u002BRYEUh\u002BPI1gcXg\u002BI3y\u002BeFb7Xcn46xk8wahx2f2ymNPQu7Y7BXRakeWSEhZPEhLHqicDEG2Qlr63FswNRl62bOnlZVtqtDbQi7GZhaa18KzpNC2ClHkwGVS4NNxiIkPsAdHoI6PEFFJSQWFlvTgeNx4UGOEyKvrvH2ifyr6MeoLh4EiqrhNphIJBKKNgCcqvkeB6QjgLaXnO90hpbnXV9jYoxgjWJGosQhRX0kFUF0FuGgDkarA03\u002BFU1T6DlSFIqC\u002BAfDV0tjzrcwp/9il1xo3UF7U9wmZuUt6jDVqq0a0rqGe8etrsVNzUNMHtxb3k8aJ80aD0dNyhyeTvK/H/0vKJXe1DiWHfgIp07cnbNbvtgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-08T14:33:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LkList.cshtml",
+              "DocumentMoniker": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Management\\_LkList.cshtml",
+              "RelativeDocumentMoniker": "AlphaData\\Views\\Statistics\\ModalViews\\Management\\_LkList.cshtml",
+              "ToolTip": "A:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0440\u0430\u0431\u043E\u0442\u0430\\AlphaData\\AlphaData\\AlphaData\\Views\\Statistics\\ModalViews\\Management\\_LkList.cshtml",
+              "RelativeToolTip": "AlphaData\\Views\\Statistics\\ModalViews\\Management\\_LkList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:43:07.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

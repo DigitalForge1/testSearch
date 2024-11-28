@@ -1,0 +1,46 @@
+﻿<head>
+    <link href="~/css/Modal/MyModal.css" rel="stylesheet" type="text/css" />
+</head>
+
+<script type="text/javascript">
+    jQuery(function ($) {
+        var modal = $('#modal');
+        var modalTitle = $('#modalTitle');
+        var modalBody = $('#modalBody');
+        $('.btn.modalbtn').on('click', function (e) {
+            if (modal.attr('class') == 'modal__show') {
+                alert('Уже открыт');
+            }
+            modalTitle.text(e.target.dataset.title);
+            modalBody.text('Загрузка...');
+            modalBody.load(e.target.dataset.content,
+                function (status) {
+                    if (status == 'error') {
+                        alert('Произошла ошибка модального окна');
+                    }
+                });
+            modal.removeClass('modal');
+            modal.addClass('modal__show');
+        });
+        $('.modal__btn-close, .modal__backdrop').click(function (e) {
+            if (e.target.dataset.dismiss === 'modal') {
+                modal.removeClass('modal__show');
+                modal.addClass('modal');
+                modalBody.text('null');
+            }
+        });
+    });
+</script>
+
+
+<div id="modal" class="modal">
+    <div class="modal__backdrop" data-title="" data-dismiss="modal">
+        <div class="modal__content">
+            <div class="modal__header">
+                <div id="modalTitle" class="modal__title" data-modal="title"></div>
+                <span class="modal__btn-close" data-dismiss="modal" title="Закрыть">×</span>
+            </div>
+            <div id="modalBody" class="modal__body" data-modal="content"></div>
+        </div>
+    </div>
+</div>

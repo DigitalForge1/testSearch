@@ -1,0 +1,110 @@
+2024-05-17T17:15:41.5230549+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T17:15:41.5270626+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T17:15:41.5281070+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T17:15:41.5290756+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T17:19:28.1540313+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T17:19:28.1558625+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T17:19:28.1572785+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T17:19:28.1582987+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T17:20:24.8712825+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T17:20:24.8728098+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T17:20:24.8736402+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T17:20:24.8745432+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T17:25:34.5094218+05:00	FAIL	[Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware]	[UnhandledException]	An unhandled exception has occurred while executing the request.System.NullReferenceException: Object reference not set to an instance of an object.
+   at alphaData.Controllers.StatisticsController.CallTable(String idTask, DateTime minDtime, DateTime maxDtime) in A:\Проекты работа\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 253
+   at alphaData.Controllers.StatisticsController.FullTable(String idLk, String idTask, DateTime minDtime, DateTime maxDtime) in A:\Проекты работа\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 316
+   at alphaData.Controllers.StatisticsController._JournalTable(String typeTable, String idLk, String idTask, String period) in A:\Проекты работа\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 172
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2024-05-17T17:25:41.6015270+05:00	FAIL	[Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware]	[UnhandledException]	An unhandled exception has occurred while executing the request.System.NullReferenceException: Object reference not set to an instance of an object.
+   at alphaData.Controllers.StatisticsController.CallTable(String idTask, DateTime minDtime, DateTime maxDtime) in A:\Проекты работа\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 253
+   at alphaData.Controllers.StatisticsController.FullTable(String idLk, String idTask, DateTime minDtime, DateTime maxDtime) in A:\Проекты работа\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 316
+   at alphaData.Controllers.StatisticsController._JournalTable(String typeTable, String idLk, String idTask, String period) in A:\Проекты работа\AlphaData\AlphaData\alphaData\Controllers\StatisticsController.cs:line 172
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2024-05-17T18:19:56.1233384+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:19:56.1250260+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:19:56.1261205+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:19:56.1271141+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:21:09.2948505+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:21:09.2963652+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:21:09.2973700+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:21:09.2983585+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:32:57.8406200+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:32:57.8426737+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:32:57.8435658+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:32:57.8445424+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:34:58.2997800+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:34:58.3015231+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:34:58.3025529+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:34:58.3034464+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:37:21.6511786+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:37:21.6531184+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:37:21.6541569+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:37:21.6552813+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:44:00.8248576+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:44:00.8265895+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:44:00.8275223+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:44:00.8284542+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:45:15.0721311+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:45:15.0740390+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:45:15.0750022+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:45:15.0759839+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:46:49.1045194+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:46:49.1062859+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:46:49.1071657+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:46:49.1081293+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:49:55.6001216+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:49:55.6016450+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:49:55.6026433+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:49:55.6035799+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:51:10.8807232+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:51:10.8821248+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:51:10.8829980+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:51:10.8839256+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T18:58:02.7400108+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T18:58:02.7417997+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T18:58:02.7432453+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T18:58:02.7449890+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T19:01:37.4534455+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T19:01:37.4550975+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T19:01:37.4560267+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T19:01:37.4571362+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T19:04:54.7497457+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T19:04:54.7511513+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T19:04:54.7520796+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T19:04:54.7530846+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T19:10:13.9041755+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T19:10:13.9057318+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T19:10:13.9066795+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T19:10:13.9075633+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
+2024-05-17T19:12:48.5369673+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5628
+2024-05-17T19:12:48.5384140+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-05-17T19:12:48.5397073+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-05-17T19:12:48.5408876+05:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: A:\Проекты работа\AlphaData\AlphaData\alphaData
